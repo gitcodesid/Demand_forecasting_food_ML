@@ -12,7 +12,7 @@ This project builds an automated machine learning pipeline to forecast weekly me
 
 ## 📊 Data Pipeline & Feature Engineering
 To simulate a scalable production environment, data integration happens at the database layer before it enters the Python model pipeline. 
-The complete, optimized query is stored here: \[View SQL Extraction Script](/sql/extract\_and\_engineer.sql).
+The complete, optimized query is stored here: [View SQL Extraction Script](./SQL/extract\_and\_engineer.sql).
 \### Key SQL Implementations:
 \* \*\*Relational Joins:\*\* Executed a `LEFT JOIN` framework to combine transaction tables with high-volume metadata catalogs (`fulfilment\_center\_info` and `meal\_info`).
 \* \*\*Database Feature Engineering:\*\* Utilized programmatic conditional statements (`CASE WHEN`) to calculate absolute pricing discounts, relative discount percentages, and promotional binary flags instantly at scale.
