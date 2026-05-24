@@ -3,7 +3,7 @@
 # Food Demand Forecasting using Advanced Analytics & Machine Learning
 
 ## 📌 Project Overview
-This project builds an automated machine learning pipeline to forecast weekly meal demand for a multi-city food delivery service across various fulfillment centers. By predicting demand patterns, the solution minimizes inventory waste and optimizes supply chain fulfillment metrics.
+This project builds an automated machine learning pipeline to forecast weekly meal demand for a multi-city food delivery service across various fulfillment centers. By predicting demand patterns, the solution minimizes inventory waste and optimizes supply chain fulfillment metrics. The dataset used in this project can be found on Kaggle: [Food Demand Forecasting Dataset](https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting/data).
 
 ## 🛠️ Tech Stack & Architecture
 * **Language:** Python 3.x
