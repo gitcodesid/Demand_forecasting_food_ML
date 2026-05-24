@@ -34,3 +34,5 @@ Evaluated multiple models using an 80/20 train/test split strategy scored agains
 
 <img width="1093" height="797" alt="data_structure" src="https://github.com/user-attachments/assets/569b1dc7-bd66-484a-a5a6-dfc6c74c7baa" />
 
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
